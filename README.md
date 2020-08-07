@@ -38,7 +38,7 @@
 5. Open the url in any web browser
 
 ## Other steps
-1. Create a Procfile and paste this data
+1. Create a Procfile and paste <i>"web: gunicorn app:app"</i>
 2. To create requirements.txt open terminal and activate conda environment. Run this command pip freeze > requirements.txt
 
 ## Heroku Deployment
